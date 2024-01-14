@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShivermaXOXO
-- 👀 I’m interested in javascript,python
-- 🌱 I’m currently learning javascript and creating my portfolio
-- 💞️ I’m looking to collaborate on python and webdevelopment
+- 👀 I’m interested in javascript
+- 🌱 I’m currently learning javascript and React
+- 💞️ I’m looking to collaborate on javascript 
 - 📫 How to reach me ...
 
 <!---
